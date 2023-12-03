@@ -1,0 +1,4 @@
+"""
+Inspired from
+>>> import pymdownx
+"""
